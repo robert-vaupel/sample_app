@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 == Welcome to Rails
+=======
+>>>>>>> 94e5ff2136e0360c365929e925250425df89032d
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
+<<<<<<< HEAD
+=======
+== Welcome to Rails
+
+>>>>>>> 94e5ff2136e0360c365929e925250425df89032d
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
